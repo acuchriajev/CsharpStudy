@@ -1,0 +1,9 @@
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsLsn1\bin\Debug\WindowsFormsLsn1.exe.config
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsLsn1\bin\Debug\WindowsFormsLsn1.exe
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsLsn1\bin\Debug\WindowsFormsLsn1.pdb
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsLsn1\obj\Debug\WindowsFormsLsn1.Lesson1.resources
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsLsn1\obj\Debug\WindowsFormsLsn1.Properties.Resources.resources
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsLsn1\obj\Debug\WindowsFormsLsn1.csproj.GenerateResource.cache
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsLsn1\obj\Debug\WindowsFormsLsn1.csproj.CoreCompileInputs.cache
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsLsn1\obj\Debug\WindowsFormsLsn1.exe
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsLsn1\obj\Debug\WindowsFormsLsn1.pdb
