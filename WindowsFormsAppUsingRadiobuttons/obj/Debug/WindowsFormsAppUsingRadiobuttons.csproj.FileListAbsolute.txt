@@ -1,0 +1,9 @@
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppUsingRadiobuttons\bin\Debug\WindowsFormsAppUsingRadiobuttons.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppUsingRadiobuttons\bin\Debug\WindowsFormsAppUsingRadiobuttons.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppUsingRadiobuttons\bin\Debug\WindowsFormsAppUsingRadiobuttons.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppUsingRadiobuttons\obj\Debug\WindowsFormsAppUsingRadiobuttons.RadioButtonsInGroup.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppUsingRadiobuttons\obj\Debug\WindowsFormsAppUsingRadiobuttons.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppUsingRadiobuttons\obj\Debug\WindowsFormsAppUsingRadiobuttons.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppUsingRadiobuttons\obj\Debug\WindowsFormsAppUsingRadiobuttons.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppUsingRadiobuttons\obj\Debug\WindowsFormsAppUsingRadiobuttons.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppUsingRadiobuttons\obj\Debug\WindowsFormsAppUsingRadiobuttons.pdb

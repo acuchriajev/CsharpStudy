@@ -1,0 +1,9 @@
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppScrollBars\bin\Debug\WindowsFormsAppScrollBars.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppScrollBars\bin\Debug\WindowsFormsAppScrollBars.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppScrollBars\bin\Debug\WindowsFormsAppScrollBars.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppScrollBars\obj\Debug\WindowsFormsAppScrollBars.FrmScrollBars.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppScrollBars\obj\Debug\WindowsFormsAppScrollBars.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppScrollBars\obj\Debug\WindowsFormsAppScrollBars.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppScrollBars\obj\Debug\WindowsFormsAppScrollBars.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppScrollBars\obj\Debug\WindowsFormsAppScrollBars.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppScrollBars\obj\Debug\WindowsFormsAppScrollBars.pdb
