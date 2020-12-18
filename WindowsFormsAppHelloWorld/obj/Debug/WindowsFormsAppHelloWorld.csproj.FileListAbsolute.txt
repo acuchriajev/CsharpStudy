@@ -1,0 +1,10 @@
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppHelloWorld\obj\Debug\WindowsFormsAppHelloWorld.csprojAssemblyReference.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppHelloWorld\obj\Debug\WindowsFormsAppHelloWorld.HelloWorldApp.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppHelloWorld\obj\Debug\WindowsFormsAppHelloWorld.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppHelloWorld\obj\Debug\WindowsFormsAppHelloWorld.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppHelloWorld\obj\Debug\WindowsFormsAppHelloWorld.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppHelloWorld\bin\Debug\WindowsFormsAppHelloWorld.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppHelloWorld\bin\Debug\WindowsFormsAppHelloWorld.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppHelloWorld\bin\Debug\WindowsFormsAppHelloWorld.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppHelloWorld\obj\Debug\WindowsFormsAppHelloWorld.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppHelloWorld\obj\Debug\WindowsFormsAppHelloWorld.pdb

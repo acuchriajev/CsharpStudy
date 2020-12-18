@@ -1,0 +1,19 @@
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppBank\bin\Debug\WindowsFormsAppBank.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppBank\bin\Debug\WindowsFormsAppBank.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppBank\bin\Debug\WindowsFormsAppBank.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.Form1.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.pdb
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppBank\bin\Debug\WindowsFormsAppBank.exe.config
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppBank\bin\Debug\WindowsFormsAppBank.exe
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppBank\bin\Debug\WindowsFormsAppBank.pdb
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.csprojAssemblyReference.cache
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.Form1.resources
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.Properties.Resources.resources
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.csproj.GenerateResource.cache
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.csproj.CoreCompileInputs.cache
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.exe
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.pdb

@@ -1,0 +1,9 @@
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppMenu\bin\Debug\WindowsFormsAppMenu.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppMenu\bin\Debug\WindowsFormsAppMenu.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppMenu\bin\Debug\WindowsFormsAppMenu.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppMenu\obj\Debug\WindowsFormsAppMenu.Menu.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppMenu\obj\Debug\WindowsFormsAppMenu.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppMenu\obj\Debug\WindowsFormsAppMenu.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppMenu\obj\Debug\WindowsFormsAppMenu.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppMenu\obj\Debug\WindowsFormsAppMenu.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppMenu\obj\Debug\WindowsFormsAppMenu.pdb
